@@ -1,20 +1,13 @@
-<!-- Put this file at: .github/profile/README.md -->
-
-<!-- Put this file at: .github/profile/README.md -->
-
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="../logo/logo_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="../logo/logo_light.png">
+    <img alt="TinyLCM" src="../logo/logo_light.png" width="140">
+  </picture>
 
-<p>
-  <!-- Light / Dark: files live in .github/profile/logo/ -->
-  <img src="logo/logo_light.png#gh-light-mode-only" alt="TinyLCM" width="140" />
-  <img src="logo/logo_dark.png#gh-dark-mode-only"  alt="TinyLCM" width="140" />
-</p>
-
-# TinyLCM — Tiny Life Cycle Management
-
-**The on‑prem, edge‑first MLOps platform for tiny devices.**
-*Less Ops, more ML at the edge · Assign once, deploy everywhere*
-
+  <h1>TinyLCM — Tiny Life Cycle Management</h1>
+  <p><strong>The on-prem, edge-first MLOps platform for tiny devices.</strong><br>
+  <em>Less Ops, more ML at the edge · Assign once, deploy everywhere</em></p>
 </div>
 
 TinyLCM standardizes the **entire edge ML lifecycle** — data → training → deployment → monitoring → (re)training — for Raspberry‑class and MCU devices.
