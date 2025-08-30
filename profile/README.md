@@ -1,11 +1,13 @@
 <!-- Put this file at: .github/profile/README.md -->
 
+<!-- Put this file at: .github/profile/README.md -->
+
 <div align="center">
 
 <p>
-  <!-- Light/Dark logo variants at .github/logo/ -->
-  <img src="../logo/logo_light.png#gh-light-mode-only" alt="TinyLCM" width="140" />
-  <img src="../logo/logo_dark.png#gh-dark-mode-only"  alt="TinyLCM" width="140" />
+  <!-- Light / Dark: files live in .github/profile/logo/ -->
+  <img src="logo/logo_light.png#gh-light-mode-only" alt="TinyLCM" width="140" />
+  <img src="logo/logo_dark.png#gh-dark-mode-only"  alt="TinyLCM" width="140" />
 </p>
 
 # TinyLCM — Tiny Life Cycle Management
