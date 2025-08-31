@@ -31,22 +31,3 @@ TinyLCM standardizes the **entire edge ML lifecycle** — data → training → 
 * **Federated Learning** · on‑device rounds (head‑only/tiny‑full), optional secure aggregation.
 * **Autonomous TinyML Apps** · **on‑device drift detection** and **auto‑retrain** via SDK (no cloud dependency).
 * **Feature Storage** · edge feature cache + central Parquet/DuckDB exports.
-
----
-
-## 🙌 We’re looking for contributors (help wanted)
-
-* **SDKs**
-
-  * **Python** → tracking, artifacts, registry, assignments.
-  * **C/C++** → embedded inference & transport (MQTT/CBOR or UART via gateway) for MCUs.
-* **Platform (Cloud‑Native)** → Docker, Kubernetes, Helm, RabbitMQ, TLS hardening.
-* **Data Science (On‑Device)** → autonomous drift detection & on‑device re‑training without cloud dependencies (quantization, tiny architectures, evaluation on device).
-
-## 🚀 How to get started
-
-1. ⭐ Star the org and watch releases.
-2. Pick issues labeled **good first issue** or **help wanted**.
-3. Read `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`.
-4. Open a PR or start a discussion — we love design proposals and ADRs.
-
